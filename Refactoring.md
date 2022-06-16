@@ -11,5 +11,5 @@ You will be graded on the exhaustiveness and quality of your unit tests, the dep
 ## Your Explanation Here
 
 
-  I had to remove the if else statement an to decrease the time complexity for the code to run and also create a hash method to prevent repeating of codes
+  I had to remove the if else statement an to decrease the  run time complexity and also create a hash method to prevent repeating of codes
 
